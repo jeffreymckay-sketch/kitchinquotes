@@ -1,6 +1,6 @@
 # Overview
 
-This is a "Quotes from the Kitchin" web application that allows users to view random quotes and submit their own kitchen-themed wisdom. It's a full-stack application built with React frontend and Express backend, featuring a PostgreSQL database for quote storage. The application uses modern UI components from shadcn/ui and provides a clean, interactive interface for quote management.
+This is a "Quotes from the Kitchin" web application that allows users to view random quotes and submit their own kitchen-themed wisdom. It's a full-stack application built with React frontend and Express backend, featuring in-memory storage for quote management. The application uses modern UI components from shadcn/ui and provides a clean, interactive interface with humorous photo integration of "The Kitchin" character appearing as a bouncing avatar next to quotes.
 
 # User Preferences
 
